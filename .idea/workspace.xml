@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28aba2b-3e3a-4201-86b1-9a18b0786cf5" name="Changes" comment="Merge branch 'therd_fun' into dev">
-      <change afterPath="$PROJECT_DIR$/interface/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/date_renamer.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/rename.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/delet.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/delet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test_delit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_delit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test_rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_rename.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e28aba2b-3e3a-4201-86b1-9a18b0786cf5" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,23 +57,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in Test_copy.py.executor": "Run",
-    "Python tests.Python tests in Test_delit.py.executor": "Run",
-    "Python tests.Python tests in Test_rename.py.executor": "Run",
-    "Python tests.Python tests in test_copy.py.executor": "Run",
-    "Python tests.Python tests in test_delit.py.executor": "Run",
-    "Python tests.Python tests in test_rename.py.executor": "Run",
-    "Python.copy.executor": "Run",
-    "Python.gui.executor": "Run",
-    "Python.interface.executor": "Run",
-    "Python.interface_rename.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "interface"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in Test_copy.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_delit.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_rename.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_copy.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_delit.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_rename.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interface_rename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;interface&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\project" />
@@ -183,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756915215670</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1757253828629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253828629</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1757253859271</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253859271</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,8 +218,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="Merge branch 'therd_fun' into dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'therd_fun' into dev" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
